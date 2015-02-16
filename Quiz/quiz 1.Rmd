@@ -1,0 +1,6 @@
+---
+title: "Regression Models-Quiz 1"
+author: "Jimmy HSiang"
+date: "Sunday, February 15, 2015"
+output: html_document
+---
