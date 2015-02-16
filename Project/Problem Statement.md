@@ -24,12 +24,21 @@ Your Course Project score will be the sum of the points and will count as 40% of
 
 ## Evaluation/feedback based on these criterion
 1.Use this space to provide constructive feedback to the student who submitted the work. Point out both strengths and weaknesses in the submission and provide advice about how the work could be improved in the future. 
+
 2.Did the student interpret the coefficients correctly?
+
 3.Did the student do some exploratory data analyses?
+
 4.Did the student fit multiple models and detail their strategy for model selection?
+
 5.Did the student answer the questions of interest or detail why the question(s) is (are) not answerable?
+
 6.Did the student do a residual plot and some diagnostics?
+
 7.Did the student quantify the uncertainty in their conclusions and/or perform an inference correctly?
+
 8.Was the report brief (about 2 pages long) for the main body of the report and no longer than 5 with supporting appendix of figures?
+
 9.Did the report include an executive summary?
+
 10.Was the report done in Rmd (knitr)?
